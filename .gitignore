@@ -1,0 +1,4 @@
+.terraform.lock.hcl 
+.terraform/ 
+errored.tfstate
+remote-state-backup.tfstate
